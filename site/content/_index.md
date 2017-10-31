@@ -73,3 +73,6 @@ I learned much of the same at Pantheon and recommend using the `www` subdomain, 
 > Thanks for using Netlify,
 
 > Brian MacKinney
+
+
+I got the extra credit done! [See here](https://brian-can-support.netlify.com/netlify/netlify-awesome)
